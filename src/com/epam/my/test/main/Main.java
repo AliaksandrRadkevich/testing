@@ -10,5 +10,6 @@ public class Main {
         printer.print("Hello world");
         Something something = new Something();
         something.bublic();
+        NewPrinter newPrinter = new NewPrinter();
     }
 }
