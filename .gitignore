@@ -1,2 +1,2 @@
-#ignore next files
-.*         # ignore all files starts with .
+.project
+.classpath
